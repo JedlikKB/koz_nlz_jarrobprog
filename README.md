@@ -63,7 +63,6 @@ Az első terminálban rendszeres mérések és figyelmeztetések látszanak; a m
 [safety_monitor]: 1.80 m -> CLEAR - szabad út
 ```
 
-Ez illusztráció, a ténylegesen futó programról külön képernyőképet kell készíteni.
 
 ## Képernyőképek
 
