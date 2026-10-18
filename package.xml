@@ -4,7 +4,7 @@
   <version>0.0.1</version>
   <description>Robot akadálytávolság szimuláció két ROS 2 node-dal.</description>
   <maintainer email="noreply@users.noreply.github.com">JedlikKB</maintainer>
-  <license>MIT</license>
+  <license>Proprietary</license>
   <buildtool_depend>ament_python</buildtool_depend>
   <exec_depend>rclpy</exec_depend>
   <exec_depend>std_msgs</exec_depend>

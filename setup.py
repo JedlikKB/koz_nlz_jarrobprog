@@ -18,7 +18,6 @@ setup(
     maintainer='JedlikKB',
     maintainer_email='noreply@users.noreply.github.com',
     description='ROS 2 robot proximity monitoring demo',
-    license='MIT',
     entry_points={
         'console_scripts': [
             'distance_publisher = koz_nlz_jarrobprog.distance_publisher:main',
