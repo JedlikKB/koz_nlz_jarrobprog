@@ -65,11 +65,15 @@ Az első terminálban rendszeres mérések és figyelmeztetések látszanak; a m
 
 Ez illusztráció, a ténylegesen futó programról külön képernyőképet kell készíteni.
 
-## Futási képernyőkép
+## Képernyőképek
 
-A tesztelt ROS 2 futásról készült képernyőkép a `screenshots/ros2_running.png` helyre helyezhető, és a következő Markdown sorral jeleníthető meg:
+![ROS 2 teszt 1](screenshots/ros2_1.png)
 
-`![A két ROS 2 node működése](screenshots/ros2_running.png)`
+![ROS 2 teszt 2](screenshots/ros2_2.png)
+
+![ROS 2 teszt 3](screenshots/ros2_3.png)
+
+![ROS 2 teszt 4](screenshots/ros2_4.png)
 
 ## Források
 
